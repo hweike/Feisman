@@ -14,8 +14,6 @@
 
 ### 
 
-### 
-
 ### New product trends
 
 2017/09 New Arrivals
