@@ -1,4 +1,4 @@
-# First Chapter
+# Company Profile
 
 Shenzhen Feisman Technology Co., Ltd. engage in mobile phone accessories more than 8 years. It is the marketing centre of **Feisman **Brand. Our headquater is located in Shenzhen, the new & modern city in China. It is a modernized office that has reached 5A decoration standard, which contains a neat & tidy working area, exhibition room, warehouse and supporting logistics.
 
