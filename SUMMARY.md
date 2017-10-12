@@ -11,8 +11,8 @@
   * [Cable Adapters](cable-adapters.md)
   * [Wall Chargers & Power Adapters](wall-chargers-and-power-adapters.md)
   * [Portable Power Banks](portable-power-banks.md)
-  * Headphones&Headsets
-  * Laptop Sleeves, Cases & Bags
+  * [Headphones&Headsets](headphonesandheadsets.md)
+  * [Laptop Sleeves, Cases & Bags](laptop-sleeves-cases-and-bags.md)
   * [Others](others.md)
 * [Product Detail](Product Detail/README.md)
   * [A1191](Product Detail/a1191.md)
