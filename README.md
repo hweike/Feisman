@@ -1,4 +1,4 @@
-# ![](/assets/160X80logo.png)
+#                                                                                          ![](/assets/160X80logo.png)
 
 # **Mobile phone accessories product  catalogue**
 
@@ -9,8 +9,6 @@
 2017/09 New Arrivals
 
 > New mobile phone data cable:**A1263 , A1264**; New mobile phone case:**A1274**
-
-
 
 2017/08 New Arrivals
 
