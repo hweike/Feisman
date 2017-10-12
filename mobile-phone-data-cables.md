@@ -1,6 +1,8 @@
 # Mobile Phone Data Cables
 
+| ![](/assets/2.jpg) |  |
+| :--- | :--- |
 
 
-![](/assets/2.jpg)
+
 
