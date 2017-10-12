@@ -14,25 +14,25 @@
 
 ### New product trends
 
-```
-2017/09 New Arrivals
-```
-
-> New mobile phone data cable:**A1263 , A1264**; New mobile phone case:**A1274**
+> 2017/09 New Arrivals
 
 ```
-2017/08 New Arrivals
+New mobile phone data cable:A1263 , A1264; New mobile phone case:A1274
 ```
 
-> New mobile phone data cable:**A1263 , A1264**; New mobile phone case:**A1274**
+> 2017/08 New Arrivals
 
-                            
+```
+New mobile phone data cable:A1263 , A1264; New mobile phone case:A1274
+```
 
 ### Contact us
 
 Shenzhen Feisman Technology  Co., Ltd , China
 
-WeChat:Feisman    
+WeChat:Feisman
+
+Tel:
 
 Alibaba Shop: [http://feisman.en.alibaba.com](http://feisman.en.alibaba.com)
 
