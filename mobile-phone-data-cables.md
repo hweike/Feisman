@@ -1,8 +1,4 @@
 # Mobile Phone Data Cables
 
-|  |  |
-| :--- | :--- |
-|  |  |
-
 
 
