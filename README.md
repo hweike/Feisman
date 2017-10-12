@@ -4,8 +4,6 @@
 
 ---
 
-### 
-
 ### Why choose us? Our advantages:
 
 1. We engage in mobile phone accessories more than 8 years. Our customer spread all over the world. High quality and best reputation in this industry.
@@ -13,8 +11,6 @@
 3. Strong R&D ability to provide OEM/ODM service.
 4. Professional QC team to control the accessories quality to make sure our products always Top quality. Do business with us ensure your money buy right Goods.
 5. Best sales and products group, 24 hours on line make sure you can find us whenever you need us. Save you time for relax and with your family.
-
-### 
 
 ### New product trends
 
@@ -30,17 +26,15 @@
 
 > New mobile phone data cable:**A1263 , A1264**; New mobile phone case:**A1274**
 
+                            
 
+### Contact us
 
+Shenzhen Feisman Technology  Co., Ltd , China
 
+WeChat:Feisman    
 
+Alibaba Shop: [http://feisman.en.alibaba.com](http://feisman.en.alibaba.com)
 
-
-```
-                             Shenzhen Lanbang Digital Co., Ltd
-                             
-                             
-```
-
-feisman.en.alibaba.com, www.ichaoyue.com
+Website: [www.ichaoyue.com](/www.ichaoyue.com)
 
