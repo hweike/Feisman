@@ -13,7 +13,8 @@
   * [Portable Power Banks](portable-power-banks.md)
   * Headphones&Headsets
   * Laptop Sleeves, Cases & Bags
-  * Others
+  * [Others](others.md)
 * [Product Detail](Product Detail/README.md)
   * [A1191](Product Detail/a1191.md)
+  * [A1216](Product Detail/a1216.md)
 
