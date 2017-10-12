@@ -32,7 +32,7 @@ Shenzhen Feisman Technology  Co., Ltd , China
 
 WeChat:Feisman
 
-Tel:
+Email:[Vic@feisman.cn](/Vic@feisman.cn)
 
 Alibaba Shop: [http://feisman.en.alibaba.com](http://feisman.en.alibaba.com)
 
