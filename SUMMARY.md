@@ -14,6 +14,6 @@
   * Headphones&Headsets
   * Laptop Sleeves, Cases & Bags
   * Others
-* [Product Detail](product-detail.md)
+* [Product Detail](Product Detail/README.md)
   * [A1191](Product Detail/a1191.md)
 
