@@ -1,5 +1,3 @@
-                                                                                                                                                      
-
 # **Mobile phone accessories product  catalogue**
 
 ---
