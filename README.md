@@ -1,22 +1,20 @@
+# ![](/assets/160X80logo.png)
+
 # **Mobile phone accessories product  catalogue**
 
 ---
 
 ### 
 
-2017/09/27 New Arrivals
+2017/09 New Arrivals
 
-> 增加了一章[〈GitBook 終端機指令〉](https://wastemobile.gitbooks.io/gitbook-chinese/content/book/gitbook-cli.html)。能夠使用終端機指令與 Node 的讀者，可以在本地製作任一種格式的電子書檔；在本機開啟網頁書籍，即時編輯與校對；建製整個靜態書籍網站，擺放到自己的網站空間，甚或是 GitHub Pages 服務。
+> New mobile phone data cable:**A1263 , A1264**; New mobile phone case:**A1274**
 
-### 
 
-### 
 
-### 
+2017/08 New Arrivals
 
-### 
-
-### 
+> New mobile phone data cable:**A1263 , A1264**; New mobile phone case:**A1274**
 
 ### 
 
