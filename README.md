@@ -1,18 +1,8 @@
+                                                                                                                                                      
 
-
-                                                                                                                                                                        ![](/assets/160X80logo.png)
-
-
-
-#                 **Mobile phone accessories product  catalogue**
+# **Mobile phone accessories product  catalogue**
 
 ---
-
-
-
-
-
-
 
 ### Why choose us? Our advantages:
 
