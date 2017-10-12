@@ -16,3 +16,5 @@ Feisman is the sub-brand of Shenzhen Lanbang digital Co., Ltd. The idea of young
 
 Feisman's goal is to be a premier digital electronics company, constantly striving for the highest standard in terms of quality and exceptional product design. All products pass through strict quality control processes prior to shipment in order to exceed the high expectations of both our customers and partners, With an uncompromising dedication to becoming a leader in digital electronics, we create products with a high level of practicality and excellence. This includes manufacturing products that make a lasting impression and exceed expectations, while further enhancing both brand integrity and confidence.
 
+
+
