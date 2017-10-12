@@ -1,12 +1,6 @@
+![](/assets/logo.jpg)
 
-
-
-
-    ![](/assets/logo.jpg)
-
-
-
-Mobile phone accessories product  catalogue 
+# Mobile phone accessories product  catalogue
 
 
 
