@@ -15,7 +15,5 @@
   * Laptop Sleeves, Cases & Bags
   * Others
 * [Product Detail](product-detail.md)
-  * [A1191](a1191.md)
-
-
+  * [A1191](Product Detail/a1191.md)
 
