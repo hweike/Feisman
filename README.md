@@ -30,9 +30,9 @@ New mobile phone data cable:A1263 , A1264; New mobile phone case:A1274
 
 Shenzhen Feisman Technology  Co., Ltd , China
 
-WeChat:Feisman
+WeChat:Feisman      Email:[Vic@feisman.cn](/Vic@feisman.cn)
 
-Email:[Vic@feisman.cn](/Vic@feisman.cn)
+
 
 Alibaba Shop: [http://feisman.en.alibaba.com](http://feisman.en.alibaba.com)
 
