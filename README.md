@@ -12,6 +12,10 @@
 4. Professional QC team to control the accessories quality to make sure our products always Top quality. Do business with us ensure your money buy right Goods.
 5. Best sales and products group, 24 hours on line make sure you can find us whenever you need us. Save you time for relax and with your family.
 
+
+
+
+
 ### New product trends
 
 > 2017/09 New Arrivals
@@ -20,19 +24,13 @@
 New mobile phone data cable:A1263 , A1264; New mobile phone case:A1274
 ```
 
-> 2017/08 New Arrivals
 
-```
-New mobile phone data cable:A1263 , A1264; New mobile phone case:A1274
-```
 
 ### Contact us
 
 Shenzhen Feisman Technology  Co., Ltd , China
 
 WeChat:Feisman      Email:[Vic@feisman.cn](/Vic@feisman.cn)
-
-
 
 Alibaba Shop: [http://feisman.en.alibaba.com](http://feisman.en.alibaba.com)
 
