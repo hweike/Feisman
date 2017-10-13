@@ -10,9 +10,7 @@
 >
 > FOB Price : US $1.20 - 1.8 / Piece
 
----
-
-##### ![](/assets/company1.jpg)
+![](/assets/company1.jpg)
 
 ##### **A1295：**[Wholesale ABS shell USB 3.1 Type C Adapter Male to Micro USB 5 Pin Female Data Transfer For Macbook Nokia N1 Tablet Meizu](#)
 
