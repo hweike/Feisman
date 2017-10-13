@@ -16,5 +16,5 @@
   * [Others](others.md)
 * [Product Detail](Product Detail/README.md)
   * [A1191](Product Detail/a1191.md)
-  * [A1295](Product Detail/a1295.md)
+  * [A1295/A1296/A1297](Product Detail/a1295.md)
 
