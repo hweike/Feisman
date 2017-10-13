@@ -17,4 +17,5 @@
 * [Product Detail](Product Detail/README.md)
   * [A1191](Product Detail/a1191.md)
   * [A1216](Product Detail/a1216.md)
+  * [A1295](Product Detail/a1295.md)
 
