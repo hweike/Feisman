@@ -30,7 +30,7 @@ Color：Red , Green , Blue,Pink ,White Length: 1.2M or customized
 
 Compatible with:iPhone 5/6/7/8 ,Samsung Android mobile phone, Type C\(Huawei,Macbook etc\)
 
-Color：Red , Green , Blue,Pink ,White Length: 1.2M or customized
+Color：Red , Green , Blue,Pink ,White Length: 1.2M or customized 
 
 **FOB Price : US $1.20 - 1.8 / Piece**
 
