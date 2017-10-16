@@ -4,7 +4,7 @@
 
 ##### **A0263：**[Lightning to USB data cable for iPhone 5/6s](/Product Detail/a0263.md)
 
-Compatible with:iPhone 5/6/7/8 , latest IOS system
+Compatible with:iPhone 5/6/7/8 , latest IOS systems
 
 Color：White      Length: 1M 2M or customized
 
