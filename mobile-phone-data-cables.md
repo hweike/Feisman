@@ -4,7 +4,7 @@
 
 ##### **A0263：**[Lightning to USB data cable for iphone 5/6s](/A0263)
 
-Compatible with:iPhone 5/6/7/8 ,Samsung Android mobile phone, Type C\(Huawei,Macbook etc\)
+Compatible with:iPhone 5/6/7/8 , latest IOS system
 
 Color：Red , Green , Blue,Pink ,White      Length: 1.2M or customized
 
