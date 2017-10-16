@@ -2,7 +2,7 @@
 
 ##### ![](/assets/company2.jpg)
 
-##### **A0263：**[Wholesale ABS shell USB 3.1 Type C Adapter Male to Micro USB 5 Pin Female Data Transfer For Macbook Nokia N1 Tablet Meizu](/Product Detail/a1295.html)
+##### **A0263：**[Lightning to USB data cable for iphone 5/6s](/A0263)
 
 Compatible with:iPhone 5/6/7/8 ,Samsung Android mobile phone, Type C\(Huawei,Macbook etc\)
 

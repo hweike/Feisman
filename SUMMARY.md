@@ -15,6 +15,8 @@
   * [Laptop Sleeves, Cases & Bags](laptop-sleeves-cases-and-bags.md)
   * [Others](others.md)
 * [Product Detail](Product Detail/README.md)
-  * [A1191](Product Detail/a1191.md)
   * [A1295/A1296/A1297](Product Detail/a1295.md)
+  * [A1191](Product Detail/a1191.md)
+* [A0263](a0263.md)
+* [A1040](a1040.md)
 
