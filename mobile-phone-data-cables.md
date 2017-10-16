@@ -2,7 +2,7 @@
 
 ##### ![](/assets/A0263主图.jpg)
 
-##### **A0263：**[Lightning to USB data cable for iphone 5/6s](/A0263)
+##### **A0263：**[Lightning to USB data cable for iphone 5/6s](/Product Detail/a0263.md)
 
 Compatible with:iPhone 5/6/7/8 , latest IOS system
 
