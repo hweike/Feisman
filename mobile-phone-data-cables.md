@@ -1,6 +1,6 @@
 # Mobile Phone Data Cables
 
-##### ![](/assets/A0263.jpg)
+##### ![](/ProductImages/A0263.jpg)
 
 ##### **A0263：**[Lightning to USB data cable for iPhone 5/6s](/Product Detail/a0263.md)
 
