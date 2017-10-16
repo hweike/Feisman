@@ -12,7 +12,7 @@ Color：White      Length: 1M 2M or customized
 
 ---
 
-![](/assets/company1.jpg)
+![](/assets/新产品手册首图模版.jpg)
 
 ##### **A1295：**[Wholesale ABS shell USB 3.1 Type C Adapter Male to Micro USB 5 Pin Female Data Transfer For Macbook Nokia N1 Tablet Meizu](#)
 
