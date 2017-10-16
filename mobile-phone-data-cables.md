@@ -6,9 +6,9 @@
 
 Compatible with:iPhone 5/6/7/8 , latest IOS system
 
-Color：Red , Green , Blue,Pink ,White      Length: 1.2M or customized
+Color：White      Length: 1M 2M or customized
 
-**FOB Price : US $1.20 - 1.8 / Piece   **
+**FOB Price : US $0.3 - 0.6 / Piece   **
 
 ---
 
