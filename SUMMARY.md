@@ -6,7 +6,7 @@
   * [Factory Profile](chapter1/factory-profile.md)
   * [Special Service](chapter1/special-service.md)
 * [Product List](product-list.md)
-  * [Mobile Phone Data Cables](mobile-phone-data-cables.md)
+  * [Data Cables](mobile-phone-data-cables.md)
   * [Cable Adapters](cable-adapters.md)
   * [Cell Phone Cases](cell-phone-cases.md)
   * [Wall Chargers & Power Adapters](wall-chargers-and-power-adapters.md)
@@ -15,8 +15,7 @@
   * [Laptop Sleeves, Cases & Bags](laptop-sleeves-cases-and-bags.md)
   * [Others](others.md)
 * [Product Detail](Product Detail/README.md)
+  * [A0263](Product Detail/a0263.md)
   * [A1191](Product Detail/a1191.md)
   * [A1295/A1296/A1297](Product Detail/a1295.md)
-
-
 
